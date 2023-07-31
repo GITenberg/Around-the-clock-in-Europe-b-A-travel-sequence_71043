@@ -7,6 +7,9 @@ contributor:
     deathdate: 1964
     gutenberg_agent_id: '56057'
     url: http://www.gutenberg.org/2009/agents/56057
+covers:
+- cover_type: archival
+  image_path: 71043-h/images/cover.jpg
 creator:
   author:
     agent_name: Howell, Charles Fish
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '56054'
     url: http://www.gutenberg.org/2009/agents/56054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71043#Around-the-clock-in-Europe-b-A-travel-sequence
 gutenberg_issued: '2023-06-26'
 identifiers:
   gutenberg: '71043'
